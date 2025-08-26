@@ -9,5 +9,5 @@ ui_page 'index.html'
 files {
     'index.html',
     'style.css',
-    'images/livorno_rp.jpg'
+    'IMG_4473.png'
 }
